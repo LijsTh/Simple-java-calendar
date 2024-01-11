@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd855d9f-8009-43e6-923b-755f32a855fa" name="Changes" comment="Emprolijamiento de un atributo en calendario nomas." />
+    <list id="bbdc1dbb-3769-430a-85c8-45afc81e1d82" name="Changes by Jumas" comment=" Primera implementacion de guardado y recuperacion del calendario 2/3" />
+    <list id="d7c6e225-95c5-4731-9b03-063402851b97" name="Changes by Santiago Fassio" comment=" Primera implementacion de guardado y recuperacion del calendario 3/3" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2OA366A1VUo43UQgixOgtwEvbYm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "last_opened_file_path": "E:/Theo/FIUBA/AlgoIII/tp/algo3-tp-2023c1--Etapa-2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Theo\FIUBA\AlgoIII\tp\tp-calendar-git\src\doc" />
+      <recent name="E:\Theo\FIUBA\AlgoIII\tp\tp-calendar-git\target" />
+      <recent name="E:\Theo\FIUBA\AlgoIII\tp\tp-calendar-git\src\main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LectorTest (1)">
+    <configuration name="All in algo3-tp-2023c1--Etapa-2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo3-tp-2023c1--Etapa-2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalendarioTest.testCalendarioGuardar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo3-tp-2023c1--Etapa-2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalendarioTest" />
+      <option name="METHOD_NAME" value="testCalendarioGuardar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LectorTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo3-tp-2023c1--Etapa-2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LectorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LectorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp-calendar" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LectorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LectorTest.TestrestaurarTareas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp-calendar" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LectorTest" />
+      <option name="METHOD_NAME" value="TestrestaurarTareas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in algo3-tp-2023c1--Etapa-2" />
+        <item itemvalue="JUnit.CalendarioTest.testCalendarioGuardar" />
+        <item itemvalue="JUnit.LectorTest (1)" />
+        <item itemvalue="JUnit.LectorTest" />
+        <item itemvalue="JUnit.LectorTest.TestrestaurarTareas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd855d9f-8009-43e6-923b-755f32a855fa" name="Changes" comment="" />
+      <created>1680989381788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680989381788</updated>
+      <workItem from="1680989383153" duration="3535000" />
+      <workItem from="1680998222175" duration="428000" />
+      <workItem from="1681824613223" duration="2106000" />
+      <workItem from="1681826743090" duration="14274000" />
+      <workItem from="1681997925748" duration="29031000" />
+      <workItem from="1682209505183" duration="11401000" />
+      <workItem from="1682221747216" duration="163000" />
+      <workItem from="1682350923145" duration="1141000" />
+      <workItem from="1682352322582" duration="12507000" />
+      <workItem from="1682377109287" duration="1522000" />
+      <workItem from="1683077231484" duration="141000" />
+      <workItem from="1683523374259" duration="150000" />
+      <workItem from="1683684359182" duration="30000" />
+      <workItem from="1683822704067" duration="9989000" />
+      <workItem from="1684087439689" duration="12671000" />
+      <workItem from="1684109283743" duration="105000" />
+      <workItem from="1684364596381" duration="909000" />
+      <workItem from="1684420759446" duration="15736000" />
+      <workItem from="1685319130232" duration="3468000" />
+    </task>
+    <task id="LOCAL-00001" summary="actualizacion de clase Tarea y calendario (Todavia sujeto a muchos cambios) y pruebas de las mismas.">
+      <created>1681689040583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681689040583</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Division en listas de Tareas y Eventos. Creacion de clase modificador. Implementacion de eventos (no repetibles).">
+      <created>1681998451308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681998451308</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Se avanzo bastante con evento repetible pero faltan tests para corroborar que funcionan. Se creo frecuencia y Diasemana para facilitar la tarea de evento repetible. Hicimos tambien getters para las tests de los diferentes clases.">
+      <created>1682028250639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682028250639</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Casi esta terminado, falta alarmas y algun que otro test en calendario. Lo que se avanzo mucho fue con terminar de implementar evento repetible para que se pueda borrar y modificar a partir de una de sus repeticiones.">
+      <created>1682221904495</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682221904495</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Git test">
+      <created>1682351844526</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682351844526</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test git">
+      <created>1682352023221</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682352023221</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Utlimo entrega primera parte (Implementacion de alarmas y pruebas terminadas)">
+      <created>1682377613601</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682377613601</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ultima actualizacion segunda parte.">
+      <created>1682377639867</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682377639868</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ahora si ultima entrega, correcion de detalles.">
+      <created>1682378024853</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682378024853</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Cambiamos los ArrayList de DiaSemana a sets utilizando HashSets (parte 1/2)">
+      <created>1683824025268</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683824025268</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Cambiamos los ArrayList a sets parte 2/2">
+      <created>1683824167961</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683824167961</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Arreglamos implementacion de sets que estaba mal y implementamos las alarmas con fechas definidas (1/3)">
+      <created>1683831449606</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683831449606</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Arreglamos implementacion de sets que estaba mal y implementamos las alarmas con fechas definidas (2/3)">
+      <created>1683831521201</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1683831521201</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Arreglamos implementacion de sets que estaba mal y implementamos las alarmas con fechas definidas (3/3)">
+      <created>1683831643900</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1683831643900</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Juntamos evento y evento repetible en una sola clase con una nueva clase que se llama EventoHijoRepetible. 1/3">
+      <created>1684098976850</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1684098976851</updated>
+    </task>
+    <task id="LOCAL-00016" summary=" Juntamos evento y evento repetible en una sola clase con una nueva clase que se llama EventoHijoRepetible 2/3">
+      <created>1684099027329</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1684099027329</updated>
+    </task>
+    <task id="LOCAL-00017" summary=" Juntamos evento y evento repetible en una sola clase con una nueva clase que se llama EventoHijoRepetible 3/3">
+      <created>1684099053312</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1684099053312</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Emprolijamiento">
+      <created>1684109363018</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1684109363018</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Actualizacion de diagrama de clases">
+      <created>1684109380602</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1684109380602</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Implementacion por fin de Evento Repetible con observer. (ignorar las cosas de la etapa II que son un WIP)">
+      <created>1684364723875</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1684364723875</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Correccion del push anterior.">
+      <created>1684364900152</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1684364900152</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Commit final de etapa 1 (aleluya) 1/3">
+      <created>1684429528752</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1684429528752</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Commit final de etapa 1 (aleluya) 2/3">
+      <created>1684429769302</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1684429769302</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Commit final de etapa 1 (aleluya) 3/3">
+      <created>1684429795571</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1684429795571</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ultimo que me olvide algo :(">
+      <created>1684429838256</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1684429838256</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Primera implementacion de guardado y recuperacion del calendario 1/3">
+      <created>1684439713321</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1684439713322</updated>
+    </task>
+    <task id="LOCAL-00027" summary=" Primera implementacion de guardado y recuperacion del calendario 2/3">
+      <created>1684439762101</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1684439762101</updated>
+    </task>
+    <task id="LOCAL-00028" summary=" Primera implementacion de guardado y recuperacion del calendario 3/3">
+      <created>1684439806584</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1684439806584</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Emprolijamiento de un atributo en calendario nomas.">
+      <created>1684439829031</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1684439829031</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Etapa-2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test git" />
+    <MESSAGE value="Utlimo entrega primera parte (Implementacion de alarmas y pruebas terminadas)" />
+    <MESSAGE value="Ultima actualizacion segunda parte." />
+    <MESSAGE value="Ahora si ultima entrega, correcion de detalles." />
+    <MESSAGE value="Cambiamos los ArrayList de DiaSemana a sets utilizando HashSets" />
+    <MESSAGE value="Cambiamos los ArrayList de DiaSemana a sets utilizando HashSets (parte 1/2)" />
+    <MESSAGE value="Cambiamos los ArrayList a sets parte 2/2" />
+    <MESSAGE value="Arreglamos implementacion de sets que estaba mal y implementamos las alarmas con fechas definidas (1/3)" />
+    <MESSAGE value="Arreglamos implementacion de sets que estaba mal y implementamos las alarmas con fechas definidas (2/3)" />
+    <MESSAGE value="Arreglamos implementacion de sets que estaba mal y implementamos las alarmas con fechas definidas (3/3)" />
+    <MESSAGE value="Juntamos evento y evento repetible en una sola clase con una nueva clase que se llama EventoHijoRepetible. 1/3" />
+    <MESSAGE value=" Juntamos evento y evento repetible en una sola clase con una nueva clase que se llama EventoHijoRepetible 2/3" />
+    <MESSAGE value=" Juntamos evento y evento repetible en una sola clase con una nueva clase que se llama EventoHijoRepetible 3/3" />
+    <MESSAGE value="Emprolijamiento" />
+    <MESSAGE value="Actualizacion de diagrama de clases" />
+    <MESSAGE value="Implementacion por fin de Evento Repetible con observer. (ignorar las cosas de la etapa II que son un WIP)" />
+    <MESSAGE value="Correccion del push anterior." />
+    <MESSAGE value="Commit final de etapa 1 (aleluya) 1/3" />
+    <MESSAGE value="Commit final de etapa 1 (aleluya) 2/3" />
+    <MESSAGE value="Commit final de etapa 1 (aleluya) 3/3" />
+    <MESSAGE value="ultimo que me olvide algo :(" />
+    <MESSAGE value="Primera implementacion de guardado y recuperacion del calendario 1/3" />
+    <MESSAGE value=" Primera implementacion de guardado y recuperacion del calendario 2/3" />
+    <MESSAGE value=" Primera implementacion de guardado y recuperacion del calendario 3/3" />
+    <MESSAGE value="Emprolijamiento de un atributo en calendario nomas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Emprolijamiento de un atributo en calendario nomas." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tp_calendar_git$EventoTest.ic" NAME="EventoTest Coverage Results" MODIFIED="1681837399163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/tp_calendar_git$EventoTest_TestEventoModificarMismaFechaIniAnt.ic" NAME="EventoTest.TestEventoModificarMismaFechaIniAnt Coverage Results" MODIFIED="1681837254856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/tp_calendar_git$EventoTest_TestEventoDiaCompleto.ic" NAME="EventoTest.TestEventoDiaCompleto Coverage Results" MODIFIED="1681837365071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/tp_calendar_git$java_in_tp_calendar.ic" NAME="java in tp-calendar Coverage Results" MODIFIED="1684364866301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/tp_calendar_git$CalendarioTest.ic" NAME="CalendarioTest Coverage Results" MODIFIED="1681837457881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
