@@ -1,7 +1,7 @@
 # algo3-tp-2023c1-
 Trabajo practico de algoritmos III año 2023 de la facultad de ingenieria Buenos Aires. 
 
-#Itegrantes:
+# Integrantes:
 
   Theo Lijs 109472
 
